@@ -1,3 +1,6 @@
+<Module>
+<ModulePrefs title="cookie"/>
+<Content type="html">
 <!DOCTYPE html>
 <html>
 <head>
@@ -235,6 +238,8 @@ Feel free to alter this code to your liking, but please do not re-host it, do no
 		<div id="tooltipAnchor"><div id="tooltip" class="framed" onMouseOut="Game.tooltip.hide();"></div></div>
 
 	</div>
+	</Content>
+</Module>
 
 </div>
 
